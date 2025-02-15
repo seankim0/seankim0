@@ -16,12 +16,13 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **Regulatory Compliance**: Model Risk Management (SR 11-7), Risk Strategy, Model Validation  
 
 ## 🔹 Featured Projects  
-📌 **[LLM Contract Review Model](#)** – Developed recommendation models such as book, movie, etc.<br>
+📌 **[LLM Contract Review Model](#)** – Developed LangChain-based LLM Generative AI models.<br>
 📌 **[Recommendation Model](#)** – Designed and implemented recommendation models such as book, movie, etc.<br>
-📌 **[Fraud Anomaly Detection](#)** – Built an XGBoost-powered fraud detection model that reduced fraud by 25%.<br>
-📌 **[Credit Scorecard Model](#)** – Developed customer behavioral credit scoring models to mitigate the default deterioration.<br>
+📌 **[Fraud Anomaly Detection](#)** – Built an AI-powered fraud detection model that reduced fraud by 25%.<br>
+📌 **[Credit Scorecard Model](#)** – Developed customer behavioral credit scoring models to mitigate the risk.<br>
 📌 **[Loss Forecasting Model](#)** – Built loss forecasting models compliance with CECL/ALLL.<br>
 📌 **[Residual Value Model](#)** – Developed an RV model using PROC MIXED to enhance auto finance predictions.<br>
+
 ## 📬 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/sean-seunghyun-kim/)  
 📧 seunghyk@tepper.cmu.edu  
