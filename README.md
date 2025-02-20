@@ -1,4 +1,4 @@
-# 👋 Sean Seunghyun Kim  
+# 👋 Seung Hyun "Sean" Kim  
 🚀 **Data Science | Machine Learning | Risk & Credit Modeling | AI/ML Engineering**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-seankim0-black?style=flat-square&logo=github)](https://github.com/seankim0)  
