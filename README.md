@@ -13,7 +13,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **Machine Learning & AI**: XGBoost, CatBoost, Random Forest, Logistic Regression (L1/L2), NLP, Generative AI LLM (Langchain, Langroid)
 - **Big Data & Analytics (BI)**: Python, SQL, Spark (PySpark, Spark ML, MLlib, MLflow), Hive, Hadoop, Tableau, Power BI, Looker  
 - **Financial Modeling**: Loss Forecasting, Credit Scorecard, Fraud Detection, Residual Value, Pricing Optimization, Interest Rate Forecasting, Behavioral Score (Collection Model)
-- - **Marketing Modeling**: Churn Prediction (Retention), Propensity (Return to Market) Model, Customer Satisfaction (Sentiment Score) Model
+- **Marketing Modeling**: Churn Prediction (Retention), Propensity (Return to Market) Model, Customer Satisfaction (Sentiment Score) Model
 - **Regulatory Compliance**: Model Risk Management (SR 11-7), Risk Strategy, Model Validation
 
 ## 🔹 Featured Projects  
