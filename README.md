@@ -24,11 +24,12 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **Marketing Mix Modeling (MMM)**: Analyzing the effectiveness of various marketing channels through econometric regression and Bayesian inference.
 
 ## 🛠 Tech Stack & Tools
-- **Languages**: Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL (BigQuery, Snowflake, Redshift), R, SAS
-- **Big Data & Cloud**: Databricks, DBT, PySpark (Spark ML, MLlib, MLflow), AWS (S3, Lambda, EC2), Azure, GCP (BigQuery, Vertex AI)
-- **Machine Learning**: XGBoost, LightGBM, CatBoost, Logistic Regression, Random Forest, Neural Networks (Transformer, LSTM), H20, AutoML
-- **Visualization & Reporting**: Tableau, Power BI, Looker, Matplotlib, Seaborn
-- **MLOps & Deployment**: Docker, MLflow, Airflow, GitHub Actions, API Deployment (FastAPI, Flask)
+- **Languages**: Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL (BigQuery, Snowflake, Redshift), R, SAS, Java, Scala
+- **Big Data & Cloud**: Databricks, DBT, Apache Spark (PySpark, Spark ML, MLlib), Apache Beam/Flink, AWS (S3, Lambda, EC2), Azure, GCP (BigQuery, Vertex AI), OCI
+- **Machine Learning & Framework **: XGBoost, LightGBM, CatBoost, Logistic Regression, Random Forest, Neural Networks (Transformer, LSTM), H20, AutoML, TensorFlow, PyTorch, Scikit-lear
+- **Visualization & Reporting**: Tableau, Power BI, Looker, D3.js, Matplotlib, Seaborn
+- **MLOps & Deployment**: Docker, Kubernetes, MLflow, Airflow, GitHub Actions, API Deployment (FastAPI, Flask), Git, Bitbucket
+- **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
 
 ## 🔹 Featured Projects  
 📌 **[LLM Contract Review Model](https://github.com/seankim0/langchain_llm)** – Developed LangChain-based LLM Generative AI models.<br>
