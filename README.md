@@ -1,5 +1,5 @@
 # 👋 Seung Hyun "Sean" Kim  
-🚀 **Data Science | Machine Learning | Risk & Marketing Modeling | AI/ML Engineering**  
+🚀 **Data Science | Machine Learning Modeling | Risk & Marketing & Operation & Servicing Strategy | AI/ML Engineering**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-seankim0-black?style=flat-square&logo=github)](https://github.com/seankim0)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SeanKim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sean-seunghyun-kim/)  
@@ -26,7 +26,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 ## 🛠 Tech Stack & Tools
 - **Languages**: Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL (BigQuery, Snowflake, Redshift, MySQL, PostgreSQL), R, SAS, Java, Scala, NoSQL (Mongo, Couchbase), React, Node/Next.js
 - **Big Data & Cloud**: Databricks, DBT, Apache Spark (PySpark, Spark ML, MLlib), Apache Beam/Flink, AWS (S3, Lambda, EC2), Azure, GCP (BigQuery, Vertex AI), OCI
-- **Machine Learning & Framework **: XGBoost, LightGBM, CatBoost, Logistic Regression, Random Forest, Neural Networks (Transformer, LSTM), H20, AutoML, TensorFlow, PyTorch, Scikit-lear, Generative AI-LLM (Langchain, GANs, VAEs, Langroid), NLP (NLTK, Vader)
+- **Machine Learning & Framework **: XGBoost, LightGBM, CatBoost, Logistic Regression, Random Forest, Neural Networks (Transformer, LSTM), H20, AutoML, TensorFlow, PyTorch, Scikit-lear, Generative AI-LLM (Langchain, GANs, VAEs, Langroid), NLP (NLTK, Vader), Unsupervised learning (Isolation Forest, Autoencoders)
 - **Visualization & Reporting**: Tableau, Power BI, Looker, D3.js, Matplotlib, Seaborn
 - **MLOps & Deployment**: Docker, Kubernetes, MLflow, Airflow, GitHub Actions, API Deployment (FastAPI, Flask), Git, Bitbucket
 - **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
