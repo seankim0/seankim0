@@ -10,14 +10,14 @@ I am a **data science and machine learning** professional with **19+ years of ex
 
 ## 🔹 Financial Modeling
 - **Credit Risk Scoring**: Creating risk-based underwriting scorecards leveraging logistic regression, XGBoost, and deep learning models.
-- **Loss Forecasting**: Developing robust models to predict credit losses using macroeconomic factors, delinquency trends, and time-series analysis.
+- **Loss Forecasting**: Developing robust models to predict credit losses (PD/LGD/EAD) using macroeconomic factors, delinquency trends, and time-series analysis.
 - **Fraud Detection**: Implementing anomaly detection models using unsupervised learning (Isolation Forest, Autoencoders) and supervised learning (CatBoost, XGBoost).
 - **Residual Value Modeling**: Forecasting vehicle residual values using econometric models like PROC MIXED and machine learning approaches.
 - **Pricing Optimization**: Optimizing pricing strategies using reinforcement learning, JD Power competitive rate analysis, and market elasticity modeling.
 - **Interest Rate Forecasting**: Predicting interest rate trends through time-series forecasting (ARIMA, LSTM) and economic indicators.
 - **Behavioral Score (Collection Model)**: Developing early-stage delinquency prediction models for efficient collection strategies.
 
-## 🔹 Marketing & Customer Analytics
+## 🔹 Marketing & CRM Analytics
 - **Churn Prediction (Retention)**: Building ML models to identify customers at risk of attrition, utilizing survival analysis and XGBoost.
 - **Propensity (Return to Market) Model**: Developing models to predict customer likelihood of returning to market based on behavioral signals and transaction data.
 - **Customer Satisfaction (Sentiment Score) Model**: Using NLP techniques (BERT, LLMs) to extract sentiment insights from customer reviews, survey responses, and service interactions.
