@@ -48,7 +48,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - Delivered an **interest rate optimization framework**, enhancing portfolio returns with predictive modeling.
 
 ## 🔹 Accomplishments
-- **Innovative Applications of Artificial Intelligence (IAAI) Award (2023)**  
+- **[Innovative Applications of Artificial Intelligence (IAAI) Award (2023)]([https://github.com/seankim0/langchain_llm](https://www.kedglobal.com/artificial-intelligence/newsView/ked202302140007)**  
   - Developed a **ML deep learning-based automobile market price forecasting model**, enhancing risk assessment and transaction control.
 - **Vision Award & Outperformance Recognition (2017 - Present)**  
   - Recognized for strategic impact in **risk modeling and AI-driven decision science** at Hyundai Capital.
@@ -60,13 +60,13 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - Exploring **causal inference** techniques for better decision-making in financial products.
 - Implementing **automated MLOps pipelines** for scalable credit risk modeling.
 
-## 📬 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/sean-seunghyun-kim/)  
-📧 seunghyk@tepper.cmu.edu  
-🌍 [GitHub Portfolio](https://github.com/seankim0)  
+## 🔹 Contact  
+- [LinkedIn](https://www.linkedin.com/in/sean-seunghyun-kim/)  
+- seunghyk@tepper.cmu.edu  
+- [GitHub Portfolio](https://github.com/seankim0)  
 
 ---
 
-🚀 **Let's connect!** If you're interested in AI/ML applications in platform, fintech, risk, and predictive modeling, feel free to reach out!
+**Let's connect!** If you're interested in innovative AI applications and ML modeling for measurable benefits, feel free to reach out!
 
 
