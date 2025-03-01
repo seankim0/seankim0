@@ -9,7 +9,7 @@
 I am a **data science and machine learning** professional with **19+ years of experience** in **AI-powered recommendation engines, pricing optimization, credit scoring, loss forecasting, fraud detection, and building large-scale ML pipelines**. My expertise lies in **predictive modeling, model validation, and AI-driven business analytics** for fintech, banking, payment, e-commerce, real estate, investment, and platform industries. **Proven leadership 12+ years** in leading cross-functional teams in implementing enterprise-wide ML solutions, managed and mentored data scientists, and spearheaded strategic data initiatives resulting in significant operational improvements
 
 ## 🔹 Financial Modeling
-- **Credit Scorecard**: Creating risk-based underwriting scorecards leveraging logistic regression, XGBoost, and deep learning models.
+- **Credit Risk Scoring**: Creating risk-based underwriting scorecards leveraging logistic regression, XGBoost, and deep learning models.
 - **Loss Forecasting**: Developing robust models to predict credit losses using macroeconomic factors, delinquency trends, and time-series analysis.
 - **Fraud Detection**: Implementing anomaly detection models using unsupervised learning (Isolation Forest, Autoencoders) and supervised learning (CatBoost, XGBoost).
 - **Residual Value Modeling**: Forecasting vehicle residual values using econometric models like PROC MIXED and machine learning approaches.
