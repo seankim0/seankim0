@@ -32,11 +32,11 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
 
 ## 🔹 Featured Projects  
-- **[LLM Contract Review Model](https://github.com/seankim0/langchain_llm)** – Developed LangChain-based LLM Generative AI models.<br>
+- **[LLM GanAI Model](https://github.com/seankim0/langchain_llm)** – Developed LangChain-based LLM Generative AI models.<br>
 - **[Recommendation Model](https://github.com/seankim0/recommender_algorithm)** – Designed and implemented recommendation models such as book, movie, etc.<br>
 - **[Fraud Anomaly Detection](https://github.com/seankim0/fraud_detection)** – Built an AI-powered fraud detection model that reduced fraud by 25%.<br>
 - **[Churn Prediction Model](https://github.com/seankim0/churn_prediction)** – Developed a churn prediction model that enhanced retention rate by 18%.<br>
-- **[Credit Scorecard Model]([#](https://github.com/seankim0/credit_risk_scoring))** – Developed customer behavioral credit scoring models to mitigate the risk.<br>
+- **[Credit Scorecard Model](https://github.com/seankim0/credit_risk_scoring)** – Developed customer behavioral credit scoring models to mitigate the risk.<br>
 - **[Loss Forecasting Model](#)** – Built loss forecasting models compliance with CECL/ALLL.<br>
 - **[Residual Value Model](#)** – Developed an RV model using PROC MIXED to enhance auto finance predictions.<br>
 
