@@ -31,7 +31,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **MLOps & Deployment**: Docker, Kubernetes, MLflow, Airflow, GitHub Actions, API Deployment (FastAPI, Flask), Git, Bitbucket
 - **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
 
-## 🔹 Featured Projects  
+## 🔹 Featured Prototypes  
 - **[LLM GenAI Model](https://github.com/seankim0/langchain_llm)** – Developed LangChain-based LLM Generative AI models.<br>
 - **[Recommendation Model](https://github.com/seankim0/recommender_algorithm)** – Designed and implemented recommendation models such as book, movie, etc.<br>
 - **[Fraud Anomaly Detection](https://github.com/seankim0/fraud_detection)** – Built an AI-powered fraud detection model that reduced fraud by 25%.<br>
