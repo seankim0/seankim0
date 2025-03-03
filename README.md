@@ -32,7 +32,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
 
 ## 🔹 Featured Projects  
-- **[LLM GanAI Model](https://github.com/seankim0/langchain_llm)** – Developed LangChain-based LLM Generative AI models.<br>
+- **[LLM GenAI Model](https://github.com/seankim0/langchain_llm)** – Developed LangChain-based LLM Generative AI models.<br>
 - **[Recommendation Model](https://github.com/seankim0/recommender_algorithm)** – Designed and implemented recommendation models such as book, movie, etc.<br>
 - **[Fraud Anomaly Detection](https://github.com/seankim0/fraud_detection)** – Built an AI-powered fraud detection model that reduced fraud by 25%.<br>
 - **[Churn Prediction Model](https://github.com/seankim0/churn_prediction)** – Developed a churn prediction model that enhanced retention rate by 18%.<br>
