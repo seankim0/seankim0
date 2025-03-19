@@ -51,9 +51,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 ## 🔹 Accomplishments
 - **[Innovative Applications of Artificial Intelligence (IAAI) Award (2023)](https://www.kedglobal.com/artificial-intelligence/newsView/ked202302140007)**  
   - Developed a **ML deep learning-based automobile market price forecasting model**, enhancing risk assessment and transaction control.
-- **Vision Award & Outperformance Recognition (2017 - Present)**  
-  - Recognized for strategic impact in **risk modeling and AI-driven decision science** at Hyundai Capital.
-- **Finance Journal Recognition (2013)**  
+- **[Finance Journal Recognition (2013)](https://news.mt.co.kr/mtview.php?no=2013020411389618394)**  
   - Featured for **best practices in loss forecasting models** and **enterprise risk management systems (ERMS)**.
 
 ## 🔹 Current Focus
