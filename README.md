@@ -8,6 +8,12 @@
 ## 🔹 About Me  
 I am a **data science and machine learning** professional with **19+ years of experience** in **AI-powered recommendation engines, pricing optimization, credit scoring, loss forecasting, fraud detection, and building large-scale ML pipelines**. My expertise lies in **predictive modeling, model validation, and AI-driven business analytics** for fintech, banking, payment, e-commerce, real estate, investment, and platform industries. **Proven leadership 12+ years** in leading cross-functional teams in implementing enterprise-wide ML solutions, managed and mentored data scientists, and spearheaded strategic data initiatives resulting in significant operational improvements
 
+## 🔹 Generative AI with MLOps Pipeline
+- **LLM RAG based AI ChatBot**: A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.
+- **MLOps using Docker & Kubernetes**: End-to-end MLOps pipeline implementation using Docker containers and Kubernetes orchestration for scalable model deployment.
+- **House Price Prediction using Deep Learning PyTorch and ML Pipeline**: A deep learning model built with PyTorch to predict house prices based on real estate features.
+- **ML Pipeline for On-prem**: A complete on-premise machine learning pipeline setup for training, validation, and deployment without cloud dependencies.
+
 ## 🔹 Financial Modeling
 - **Credit Risk Scoring**: Creating risk-based underwriting scorecards leveraging logistic regression, XGBoost, and deep learning models.
 - **Loss Forecasting**: Developing robust models to predict credit losses (PD/LGD/EAD) using macroeconomic factors, delinquency trends, and time-series analysis.
@@ -32,7 +38,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
 
 ## 🔹 Featured Prototypes  
-- **[LLM RAG Generative AI Model](https://github.com/seankim0/langchain_llm)** – Developed LangChain-based LLM Generative AI models.<br>
+- **[LLM RAG Based GenAI ChatBot](https://github.com/seankim0/llm_rag_gen_ai_chatbot)** – A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.<br>
 - **[Advertisement Analytics Model](https://github.com/seankim0/advertising_marketing)** – Designed Advertisement Analytics Marketing Model for Customer Segmentation.<br>
 - **[Recommendation Model](https://github.com/seankim0/recommender_algorithm)** – Designed and implemented recommendation models such as book, movie, etc.<br>
 - **[Fraud Anomaly Detection](https://github.com/seankim0/fraud_detection)** – Built an AI-powered fraud detection model that reduced fraud by 25%.<br>
