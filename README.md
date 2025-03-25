@@ -14,7 +14,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **House Price Prediction using Deep Learning PyTorch and ML Pipeline**: A deep learning model built with PyTorch to predict house prices based on real estate features.
 - **ML Pipeline for On-prem**: A complete on-premise machine learning pipeline setup for training, validation, and deployment without cloud dependencies.
 
-## 🔹 Financial Modeling
+## 🔹 Finance & Operation Modeling
 - **Credit Risk Scoring**: Creating risk-based underwriting scorecards leveraging logistic regression, XGBoost, and deep learning models.
 - **Loss Forecasting**: Developing robust models to predict credit losses (PD/LGD/EAD) using macroeconomic factors, delinquency trends, and time-series analysis.
 - **Fraud Detection**: Implementing anomaly detection models using unsupervised learning (Isolation Forest, Autoencoders) and supervised learning (CatBoost, XGBoost).
@@ -37,7 +37,7 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - **MLOps & Deployment**: Docker, Kubernetes, MLflow, Airflow, GitHub Actions, API Deployment (FastAPI, Flask), Git, Bitbucket
 - **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
 
-## 🔹 Featured Prototypes  
+## 🔹 Featured Prototypes (including Toy Projects)
 - **[LLM RAG Based GenAI ChatBot](https://github.com/seankim0/llm_rag_gen_ai_chatbot)** – A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.<br>
 - **[Advertisement Analytics Model](https://github.com/seankim0/advertising_marketing)** – Designed Advertisement Analytics Marketing Model for Customer Segmentation.<br>
 - **[Recommendation Model](https://github.com/seankim0/recommender_algorithm)** – Designed and implemented recommendation models such as book, movie, etc.<br>
