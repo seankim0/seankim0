@@ -55,8 +55,8 @@ I am a **data science and machine learning** professional with **19+ years of ex
 - Delivered an **interest rate optimization framework**, enhancing portfolio returns with predictive modeling.
 
 ## 🔹 Accomplishments
-- **[Innovative Applications of Artificial Intelligence (IAAI) Award (2023)](https://www.kedglobal.com/artificial-intelligence/newsView/ked202302140007)**  
-  - Developed a **ML deep learning-based automobile market price forecasting model**, enhancing risk assessment and transaction control.
+- **[Innovative Applications of Artificial Intelligence (IAAI) Award (2023)](https://ojs.aaai.org/index.php/AAAI/article/view/26842)**  
+  - Supported and oversaw a **ML deep learning-based automobile market price forecasting model**, enhancing risk assessment and transaction control.
 - **[Finance Journal Recognition (2013)](https://news.mt.co.kr/mtview.php?no=2013020411389618394)**  
   - Featured for **best practices in loss forecasting models** and **enterprise risk management systems (ERMS)**.
 
