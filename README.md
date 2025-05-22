@@ -6,7 +6,7 @@
 
 ---
 ## 🔹 About Me  
-I am a **data science and machine learning** professional with **19+ years of experience** in **AI-powered recommendation engines, pricing optimization, credit scoring, loss forecasting, fraud detection, and building large-scale ML pipelines**. My expertise lies in **predictive modeling, model validation, and AI-driven business analytics** for fintech, banking, payment, e-commerce, real estate, investment, and platform industries. **Proven leadership 12+ years** in leading cross-functional teams in implementing enterprise-wide ML solutions, managed and mentored data scientists, and spearheaded strategic data initiatives resulting in significant operational improvements.
+I am a **Lead AI Scientist** with **19+ years of experience** in **AI-powered recommendation engines, pricing optimization, credit scoring, loss forecasting, fraud detection, and building large-scale ML pipelines**. My expertise lies in **predictive modeling, model validation, and AI-driven business analytics** for fintech, banking, payment, e-commerce, real estate, investment, and platform industries. **Proven leadership 12+ years** in leading cross-functional teams in implementing enterprise-wide ML solutions, managed and mentored data scientists, and spearheaded strategic data initiatives resulting in significant operational improvements.
 
 ## 🔹 Generative AI with MLOps Pipeline
 - **LLM RAG based AI ChatBot**: A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.
