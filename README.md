@@ -6,13 +6,14 @@
 
 ---
 ## 🔹 About Me  
-I am a **Lead AI Scientist** with **19+ years of experience** in **AI-powered recommendation engines, pricing optimization, credit scoring, loss forecasting, fraud detection, and building large-scale ML pipelines**. My expertise lies in **predictive modeling, model validation, and AI-driven business analytics** for fintech, banking, payment, e-commerce, real estate, investment, and platform industries. **Proven leadership 12+ years** in leading cross-functional teams in implementing enterprise-wide ML solutions, managed and mentored data scientists, and spearheaded strategic data initiatives resulting in significant operational improvements.
+I am a **Lead AI Scientist** with **19+ years of experience** in **AI-powered recommendation engines, LLM/RAG, pricing optimization, credit scoring, loss forecasting, fraud detection, and building large-scale ML pipelines**. My expertise lies in **predictive modeling, model validation, and AI-driven business analytics** for fintech, banking, payment, e-commerce, real estate, investment, and platform industries. **Proven leadership 12+ years** in leading cross-functional teams in implementing enterprise-wide ML solutions, managed and mentored data scientists, and spearheaded strategic data initiatives resulting in significant operational improvements.
 
-## 🔹 Generative AI with MLOps Pipeline
+## 🔹 Generative AI with MLOps, LLMOps, Data Pipeline
 - **LLM RAG based AI ChatBot**: A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.
 - **MLOps using Docker & Kubernetes**: End-to-end MLOps pipeline implementation using Docker containers and Kubernetes orchestration for scalable model deployment.
 - **House Price Prediction using Deep Learning PyTorch and ML Pipeline**: A deep learning model built with PyTorch to predict house prices based on real estate features.
-- **ML Pipeline for On-prem**: A complete on-premise machine learning pipeline setup for training, validation, and deployment without cloud dependencies.
+- **ML Pipeline for On-prem and AWS**: A complete on-premise machine learning pipeline setup for training, validation, and deployment without cloud dependencies.
+- **Data Pipeline using Airflow**: End-to-End Data Pipeline using Spark, S3, Databricks, and Airflow: Word Count, User Behavior Analysis, UDF-based Segmentation, and Daily Workflow Automation.
 
 ## 🔹 Finance & Operation Modeling
 - **Credit Risk Scoring**: Creating risk-based underwriting scorecards leveraging logistic regression, XGBoost, and deep learning models.
@@ -31,11 +32,13 @@ I am a **Lead AI Scientist** with **19+ years of experience** in **AI-powered re
 
 ## 🔹 Tech Stack & Tools
 - **Languages**: Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow), SQL (BigQuery, Snowflake, Redshift, MySQL, PostgreSQL), R, SAS, Java, Scala, NoSQL (Mongo, Couchbase), React, Node/Next.js
-- **Big Data & Cloud**: Databricks, DBT, Apache Spark (PySpark, Spark ML, MLlib), Apache Beam/Flink, AWS (S3, Lambda, EC2), Azure, GCP (BigQuery, Vertex AI), OCI
+- **Big Data & Cloud**: Databricks, DBT, Apache Spark (PySpark, Spark ML, MLlib), Apache Beam/Flink, AWS (S3, Lambda, EC2), Azure, GCP (BigQuery, Vertex AI), OCI, Airflow DAG orchestration
 - **Machine Learning & Framework**: XGBoost, LightGBM, CatBoost, Logistic Regression, Random Forest, Neural Networks (Transformer, LSTM), H20, AutoML, TensorFlow, PyTorch, Scikit-lear, Generative AI-LLM (Langchain, GANs, VAEs, Langroid), NLP (NLTK, Vader), Unsupervised learning (Isolation Forest, Autoencoders)
-- **Visualization & Reporting**: Tableau, Power BI, Looker, D3.js, Matplotlib, Seaborn
-- **MLOps & Deployment**: Docker, Kubernetes, MLflow, Airflow, GitHub Actions, API Deployment (FastAPI, Flask), Git, Bitbucket
+- **Visualization & Reporting**: Tableau, Power BI, Looker, D3.js, Matplotlib, Seaborn, Databricks Quick insights, AWS QuickSight
+- **MLOps & Deployment**: Docker, Kubernetes, MLflow, Spark + Airflow, GitHub Actions, API Deployment (FastAPI, Flask), Git, Bitbucket, AWS S3, scalable DAG setup
 - **Data Warehousing & Data Lake**: Oracle Object Storage, Apache Hadoop, Apache Hive, Amazon Redshift, Snowflake
+- **Pipeline & Automation**: Apache Airflow (SparkSubmitOperator), daily batch ETL scheduling, parameterized DAGs, S3 integration
+- **Extensible Architecture**: DBT / Snowflake integration, containerization (Docker), and CI/CD (GitHub Actions) ready with minimal refactor
 
 ## 🔹 Featured Prototypes 
 - **[LLM RAG Based GenAI ChatBot](https://github.com/seankim0/llm_rag_gen_ai_chatbot)** – A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.<br>
