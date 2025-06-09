@@ -1,5 +1,5 @@
 # Sean Kim  
-**Data Science | Machine Learning Modeling | Risk & Marketing & Operation & Servicing Strategy | AI/ML Engineering**  
+**Lead AI Scientist | Machine Learning Modeling | Pricing & Risk & Marketing & Operation & Servicing Strategy | AI/ML Engineering**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-seankim0-black?style=flat-square&logo=github)](https://github.com/seankim0)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SeanKim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sean-seunghyun-kim/)  
