@@ -1,4 +1,4 @@
-# Seung Hyun "Sean" Kim  
+# Sean Kim  
 **Data Science | Machine Learning Modeling | Risk & Marketing & Operation & Servicing Strategy | AI/ML Engineering**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-seankim0-black?style=flat-square&logo=github)](https://github.com/seankim0)  
