@@ -3,6 +3,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-seankim0-black?style=flat-square&logo=github)](https://github.com/seankim0)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SeanKim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seung-hyun-sean-kim/)  
+[![TechBlog](https://img.shields.io/badge/Tech%20Blog-SeanKimLab-brightgreen?style=flat-square&logo=ghost)](https://seankimlab.globalissuedigest.com/)
 
 ---
 ## 🔹 About Me  
