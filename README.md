@@ -10,10 +10,11 @@ I am a **Lead AI Scientist** with **19+ years of experience** in **AI-powered re
 
 ## 🔹 Generative AI with MLOps, LLMOps, Data Pipeline
 - **LLM RAG based AI ChatBot**: A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.
-- **MLOps using Docker & Kubernetes**: End-to-end MLOps pipeline implementation using Docker containers and Kubernetes orchestration for scalable model deployment.
+- **MLOps using Docker & Kubernetes**: End-to-end ML pipeline, MLflow, CI/CD implementation using Docker containers and Kubernetes orchestration for scalable model deployment.
 - **House Price Prediction using Deep Learning PyTorch and ML Pipeline**: A deep learning model built with PyTorch to predict house prices based on real estate features.
-- **ML Pipeline for On-prem and AWS**: A complete on-premise machine learning pipeline setup for training, validation, and deployment without cloud dependencies.
+- **ML Pipeline for On-premise and AWS cloud**: A complete on-premise/AWS cloud machine learning pipeline setup for training, validation, and deployment with local servers, AWS EC2/S3.
 - **Data Pipeline using Airflow**: End-to-End Data Pipeline using Spark, S3, Databricks, and Airflow: Word Count, User Behavior Analysis, UDF-based Segmentation, and Daily Workflow Automation.
+- **Real-time Crypto Price Analytics Platfor**: Built a real-time BTC/ETH price tracking system using Kafka, Spark Streaming, Redshift, Airflow, and Stremlit, featuring live dashboards, Slack alerts, and volatility trend analysis.
 
 ## 🔹 Finance & Operation Modeling
 - **Credit Risk Scoring**: Creating risk-based underwriting scorecards leveraging logistic regression, XGBoost, and deep learning models.
