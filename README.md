@@ -43,8 +43,8 @@ I am a **Lead AI Scientist** with **19+ years of experience** in **AI-powered re
 - **Extensible Architecture**: DBT / Snowflake integration, containerization (Docker), and CI/CD (GitHub Actions) ready with minimal refactor
 
 ## 🔹 Featured Prototypes 
-- **[LLM RAG PDF AI Platform](https://github.com/seankim0/llm_rag_pdf_ai_platform)** – PDF files analytics LLM RAG platform using LangChain, Hugginface, and Strealit.<br>
 - **[LLM RAG Based GenAI ChatBot](https://github.com/seankim0/llm_rag_gen_ai_chatbot)** – A powerful AI ChatBot App that lets you chat with multiple documents using LLM and RAG.<br>
+- **[LLM RAG PDF AI Platform](https://github.com/seankim0/llm_rag_pdf_ai_platform)** – PDF files analytics LLM RAG platform using LangChain, Hugginface, and Strealit.<br>
 - **[Advertisement Analytics Model](https://github.com/seankim0/advertising_marketing)** – Designed Advertisement Analytics Marketing Model for Customer Segmentation.<br>
 - **[Recommendation Model](https://github.com/seankim0/recommender_algorithm)** – Designed and implemented recommendation models such as book, movie, etc.<br>
 - **[Fraud Anomaly Detection](https://github.com/seankim0/fraud_detection)** – Built an AI-powered fraud detection model that reduced fraud by 25%.<br>
